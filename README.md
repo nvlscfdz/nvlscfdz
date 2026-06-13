@@ -18,6 +18,8 @@ My profile combines deep technical engineering skills with a strong strategic bu
 - Agile Methodologies & Project Management
 - Analytical & Data-Driven Problem Solving
 
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,py,mysql,git,github,html)](https://skillicons.dev)
+
 ---
 
 ### 🌍 Languages
