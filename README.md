@@ -41,3 +41,4 @@ My profile combines deep technical engineering skills with a strong strategic bu
 
 - 📍 Based in Madrid, Spain
 - **Email:** nicolasvf2018@gmail.com
+- **LinkedIn:** www.linkedin.com/in/nicolás-velasco-fernández-46477a1ba
